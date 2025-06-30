@@ -13,7 +13,8 @@ Dispositivos usados: Router Cisco ISR, PC_Internal (LAN), Server_DMZ, PC_Externa
 - DMZ (192.168.2.0/24): Zona desmilitarizada donde está alojado el servidor web (192.168.2.10).  
 - Red Externa (192.168.3.0/24): Simulación de red pública/internet.  
 
-![Captura Packet Tracer topología](../evidencias/topologia.png)
+ 
+![Captura Packet Tracer topología](https://github.com/user-attachments/assets/e99e4c42-22cd-4c9e-a5f4-e0671ca447ad)
 
 ## 3. Plan de direccionamiento IP
 
